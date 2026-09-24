@@ -10,6 +10,7 @@ disease.
 🚀 Live Demo
 
 Open the Streamlit App
+ chick on this -- https://p5nbasbydertri5vsheju2.streamlit.app/
 
 📂 GitHub Repository
 
